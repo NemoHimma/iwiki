@@ -14,7 +14,5 @@ Contents
 --------
 .. toctree::
    ./setup/setup
+   ./setup/rst_grammar
    :maxdepth: 2
-
-.. note::
-   This project is under active development.

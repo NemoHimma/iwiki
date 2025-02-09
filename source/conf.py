@@ -28,3 +28,8 @@ language = 'zh_CN'
 
 html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']
+
+# remove primary sidebar from all pages 
+html_sidebars = {
+  "**": []
+}
